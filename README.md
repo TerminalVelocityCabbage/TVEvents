@@ -14,7 +14,7 @@ A deterministic, dependency-based event system for Java, designed for game engin
 TVEvents is currently intended to be used as a git submodule in your project.
 
 ```bash
-git submodule add https://github.com/YourUsername/TVEvents.git
+git submodule add https://github.com/TerminalVelocityCabbage/TVEvents.git TVEvents
 ```
 
 Then, include it in your `settings.gradle`:
